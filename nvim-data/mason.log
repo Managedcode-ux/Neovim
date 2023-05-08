@@ -1,0 +1,12 @@
+[INFO  07-05-2023 16:36:38] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:166: Executing installer for Package(name=typescript-language-server) {}
+[INFO  07-05-2023 16:36:38] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:166: Executing installer for Package(name=rust-analyzer) {}
+[INFO  07-05-2023 16:36:42] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:193: Installation succeeded for Package(name=rust-analyzer)
+[INFO  07-05-2023 16:36:44] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:193: Installation succeeded for Package(name=typescript-language-server)
+[INFO  07-05-2023 17:10:54] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:166: Executing installer for Package(name=python-lsp-server) {}
+[INFO  07-05-2023 17:10:58] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:166: Executing installer for Package(name=debugpy) {}
+[INFO  07-05-2023 17:11:06] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:193: Installation succeeded for Package(name=debugpy)
+[INFO  07-05-2023 17:11:11] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:193: Installation succeeded for Package(name=python-lsp-server)
+[INFO  07-05-2023 17:11:20] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:166: Executing installer for Package(name=pylint) {}
+[INFO  07-05-2023 17:11:29] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:193: Installation succeeded for Package(name=pylint)
+[INFO  07-05-2023 17:11:35] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:166: Executing installer for Package(name=autopep8) {}
+[INFO  07-05-2023 17:11:41] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:193: Installation succeeded for Package(name=autopep8)

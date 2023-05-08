@@ -1,0 +1,1 @@
+{"links":{"opt":{},"bin":{"autopep8.cmd":"venv\\Scripts\\autopep8.exe"},"share":{}},"metrics":{"start_time":1683459695064,"completion_time":1683459701780},"secondary_sources":[],"schema_version":"1.1","name":"autopep8","primary_source":{"type":"registry+v1","source":{"package":"autopep8","version":"2.0.2","pip":{"upgrade":false,"extra_args":[]}},"id":"pkg:pypi\/autopep8@2.0.2"}}

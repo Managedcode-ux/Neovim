@@ -1,0 +1,37 @@
+[START][2023-05-07 16:49:32] LSP logging initiated
+[ERROR][2023-05-07 16:49:32] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[ERROR][2023-05-07 16:49:54] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[ERROR][2023-05-07 16:50:33] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[ERROR][2023-05-07 16:52:06] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[ERROR][2023-05-07 16:58:12] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-05-07 17:02:52] LSP logging initiated
+[ERROR][2023-05-07 17:02:52] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[ERROR][2023-05-07 17:03:37] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[ERROR][2023-05-07 17:03:50] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-05-07 17:04:09] LSP logging initiated
+[ERROR][2023-05-07 17:04:09] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[ERROR][2023-05-07 17:04:17] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[ERROR][2023-05-07 17:04:29] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[ERROR][2023-05-07 17:06:06] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[ERROR][2023-05-07 17:07:29] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[ERROR][2023-05-07 17:08:00] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[ERROR][2023-05-07 17:08:02] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-05-07 17:08:51] LSP logging initiated
+[ERROR][2023-05-07 17:08:51] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-05-07 17:09:06] LSP logging initiated
+[ERROR][2023-05-07 17:09:06] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-05-07 17:13:23] LSP logging initiated
+[ERROR][2023-05-07 17:13:23] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[ERROR][2023-05-07 17:14:21] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[ERROR][2023-05-07 17:15:52] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[ERROR][2023-05-07 17:15:59] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-05-07 17:16:37] LSP logging initiated
+[ERROR][2023-05-07 17:16:37] .../vim/lsp/rpc.lua:734	"rpc"	"C:\\Users\\TRIDENT\\AppData\\Local\\nvim-data\\mason\\bin\\pylsp.CMD"	"stderr"	"2023-05-07 17:16:37,464 India Standard Time - WARNING - pylsp.workspace - There was an error while trying to initialize progress reporting.Likely progress reporting was used in a synchronous LSP handler, which is not supported by progress reporting yet.\r\nTraceback (most recent call last):\r\n  File \"C:\\Users\\TRIDENT\\AppData\\Local\\nvim-data\\mason\\packages\\python-lsp-server\\venv\\lib\\site-packages\\pylsp\\workspace.py\", line 148, in report_progress\r\n    token = self._progress_begin(title, message, percentage)\r\n  File \"C:\\Users\\TRIDENT\\AppData\\Local\\nvim-data\\mason\\packages\\python-lsp-server\\venv\\lib\\site-packages\\pylsp\\workspace.py\", line 185, in _progress_begin\r\n    self._endpoint.request(self.M_INITIALIZE_PROGRESS, {'token': token}).result(timeout=1.0)\r\n  File \"C:\\Python310\\lib\\concurrent\\futures\\_base.py\", line 448, in result\r\n    raise TimeoutError()\r\nconcurrent.futures._base.TimeoutError\r\n"
+[START][2023-05-07 17:18:08] LSP logging initiated
+[ERROR][2023-05-07 17:18:08] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-05-07 17:20:59] LSP logging initiated
+[WARN][2023-05-07 17:20:59] .../lua/vim/lsp.lua:101	"method textDocument/declaration is not supported by any of the servers registered for the current buffer"
+[ERROR][2023-05-07 17:26:12] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[START][2023-05-07 17:29:05] LSP logging initiated
+[ERROR][2023-05-07 17:29:05] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
+[ERROR][2023-05-07 17:38:49] .../vim/lsp/rpc.lua:734	"rpc"	"cmd.exe"	"stderr"	"'lua-language-server' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n"
